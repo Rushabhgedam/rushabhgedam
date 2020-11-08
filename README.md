@@ -6,8 +6,6 @@
 - ⚡ Fun fact: JS meme 
 ## Stats
 
-> These themes work both for the Stats Card and Repo Card.
-
 | | | |
 | :--: | :--: | :--: |
 | `default` ![default][default] | `dark` ![dark][dark] | `radical` ![radical][radical] |
@@ -26,9 +24,7 @@
 | `yeblu` ![yeblu][yeblu] | `blueberry` ![blueberry][blueberry] | `slateorange` ![slateorange][slateorange] |
 | `kacho_ga` ![kacho_ga][kacho_ga] |  | [Add your theme][add-theme] |
 
-## Repo Card
-
-> These themes work both for the Stats Card and Repo Card.
+### It matters how it looks
 
 | | | |
 | :--: | :--: | :--: |
