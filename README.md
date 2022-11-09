@@ -6,7 +6,7 @@
 - ⚡ Fun fact: JS meme 
 ## Stats
 
- `dark` ![dark][dark]
+ ![dark][dark]
 
 ### It matters how it looks
 
